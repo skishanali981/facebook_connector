@@ -1,0 +1,107 @@
+{
+    "id": "167541249150598",
+    "name": "Ishan Ali",
+    "adaccounts": {
+        "data": [
+            {
+                "account_status": 1,
+                "amount_spent": "17746",
+                "currency": "INR",
+                "name": "Ishan Ali",
+                "campaigns": {
+                    "data": [
+                        {
+                            "ads": {
+                                "data": [
+                                    {
+                                        "name": "Promoting website: informationfactory599.blogspot.com",
+                                        "status": "ACTIVE",
+                                        "id": "23851450561040780"
+                                    }
+                                ],
+                                "paging": {
+                                    "cursors": {
+                                        "before": "QVFIUjZAuY0JqMDNiT3cwVnlRMVJMSDZAoWWV0US1TTlZA2ZA3ZAIVDJqZAjVnZA1NVQlJkZA0lyU3d3Sklyd2NLdVdDMVltRXlmelBvQXkyLWUzLXFhcWJmRmdXejFn",
+                                        "after": "QVFIUjZAuY0JqMDNiT3cwVnlRMVJMSDZAoWWV0US1TTlZA2ZA3ZAIVDJqZAjVnZA1NVQlJkZA0lyU3d3Sklyd2NLdVdDMVltRXlmelBvQXkyLWUzLXFhcWJmRmdXejFn"
+                                    }
+                                }
+                            },
+                            "start_time": "2022-08-09T17:07:42+0530",
+                            "id": "23851450560980780"
+                        },
+                        {
+                            "ads": {
+                                "data": [
+                                    {
+                                        "name": "Promoting Call-to-action: Send message",
+                                        "status": "ACTIVE",
+                                        "id": "23851450552310780"
+                                    }
+                                ],
+                                "paging": {
+                                    "cursors": {
+                                        "before": "QVFIUk5UU1ZAFcVBoYU4xZA0NSSl8xZA19POGtmeEExMW9HSzV4VjBjNmJjQjNvMlZAyQlQxeExtUVdhMVdBXzJUM29sRE9fYWU4OVEyVl9pM09IZAnRLclZA1c1VB",
+                                        "after": "QVFIUk5UU1ZAFcVBoYU4xZA0NSSl8xZA19POGtmeEExMW9HSzV4VjBjNmJjQjNvMlZAyQlQxeExtUVdhMVdBXzJUM29sRE9fYWU4OVEyVl9pM09IZAnRLclZA1c1VB"
+                                    }
+                                }
+                            },
+                            "start_time": "2022-08-09T17:04:53+0530",
+                            "id": "23851450552200780"
+                        },
+                        {
+                            "ads": {
+                                "data": [
+                                    {
+                                        "name": "New Messages Ad",
+                                        "status": "ACTIVE",
+                                        "id": "23851450063590780"
+                                    }
+                                ],
+                                "paging": {
+                                    "cursors": {
+                                        "before": "QVFIUmMyU3ZAmQXBNRmxIWExYMlp2SmhkRWgtaS0yT29tWUxpUVp2NU9URnAyNGx2eV9qMXVDMW1pQkk0eDItcW9Qem01NWtacXVadGJSRkppUnlFZAXZA4ZAnBB",
+                                        "after": "QVFIUmMyU3ZAmQXBNRmxIWExYMlp2SmhkRWgtaS0yT29tWUxpUVp2NU9URnAyNGx2eV9qMXVDMW1pQkk0eDItcW9Qem01NWtacXVadGJSRkppUnlFZAXZA4ZAnBB"
+                                    }
+                                }
+                            },
+                            "start_time": "2022-08-09T15:36:19+0530",
+                            "id": "23851450063520780"
+                        },
+                        {
+                            "ads": {
+                                "data": [
+                                    {
+                                        "name": "[08/09/2022] Promoting Test",
+                                        "status": "ACTIVE",
+                                        "id": "23851449991860780"
+                                    }
+                                ],
+                                "paging": {
+                                    "cursors": {
+                                        "before": "QVFIUkc0UDBGbWVHbFViUWJrUTQ4QjJsU0FfRlZAPdkVKLXhtUm9YVU5YZAzNlX2ZArcmxIMkZAnZA3JxUVBET1ltaVRGUC1oQ1N3UkV3ZAVFvSmR3X0dzU0VHaG1R",
+                                        "after": "QVFIUkc0UDBGbWVHbFViUWJrUTQ4QjJsU0FfRlZAPdkVKLXhtUm9YVU5YZAzNlX2ZArcmxIMkZAnZA3JxUVBET1ltaVRGUC1oQ1N3UkV3ZAVFvSmR3X0dzU0VHaG1R"
+                                    }
+                                }
+                            },
+                            "start_time": "2022-08-09T15:24:11+0530",
+                            "id": "23851449991440780"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "before": "QVFIUmNSMU4zdUg4Wnl2VVBWYWdieWZAITmVmdGt1NXRxdHlybzIwMXEwUHlna2lFQVFxNjlKZAEJta3JHZAjdPaDhsU0c5QmFwMnc1NGxyc1ljeWhYLTlvNC1n",
+                            "after": "QVFIUmdkS0NPLVVGYUtuX3hxTUVteHpySkliYmRiRzdfcTc1UEQwZAVhmTTlmM2w0ZAmgwMzJfY0ZAvTTBzYVo1eEFndncyQnpmVzdIYktha29Dc09TQ0F2WUFR"
+                        }
+                    }
+                },
+                "id": "act_2027051550831808"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "MjM4NTEzNzA0NzQ1NzA3ODAZD",
+                "after": "MjM4NTEzNzA0NzQ1NzA3ODAZD"
+            }
+        }
+    }
+}
